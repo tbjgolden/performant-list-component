@@ -1,0 +1,14 @@
+.listItem {
+  display: flex;
+}
+
+.listItemCheckboxWrapper {
+  flex: 0 0 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.listItemContentWrapper {
+  flex: 1 0 1px;
+}
